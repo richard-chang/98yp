@@ -1,0 +1,452 @@
+{
+  "key_words": [
+    {
+      "text": "評價",
+      "weight": 15
+    },
+    {
+      "text": "演員",
+      "weight": 14
+    },
+    {
+      "text": "影評",
+      "weight": 13
+    },
+    {
+      "text": "電影時刻表",
+      "weight": 12
+    },
+    {
+      "text": "劇情分析",
+      "weight": 10
+    },
+    {
+      "text": "ptt",
+      "weight": 11
+    },
+    {
+      "text": "男主角",
+      "weight": 9
+    },
+    {
+      "text": "女主角",
+      "weight": 9
+    },
+    {
+      "text": "場次",
+      "weight": 7
+    },
+    {
+      "text": "線上看",
+      "weight": 2
+    },
+    {
+      "text": "線上看小鴨",
+      "weight": 2
+    },
+    {
+      "text": "線上看完整版",
+      "weight": 2
+    },
+    {
+      "text": "小鴨",
+      "weight": 2
+    },
+    {
+      "text": "小鴨影音",
+      "weight": 2
+    },
+    {
+      "text": "電影線上看",
+      "weight": 0
+    },
+    {
+      "text": "預告",
+      "weight": 0
+    },
+    {
+      "text": "預告ptt",
+      "weight": 0
+    },
+    {
+      "text": "預告片",
+      "weight": 0
+    },
+    {
+      "text": "台灣",
+      "weight": 0
+    },
+    {
+      "text": "概念海報",
+      "weight": 0
+    },
+    {
+      "text": "概念圖",
+      "weight": 0
+    },
+    {
+      "text": "照片",
+      "weight": 0
+    },
+    {
+      "text": "電影",
+      "weight": 0
+    },
+    {
+      "text": "電影院",
+      "weight": 0
+    },
+    {
+      "text": "劇照",
+      "weight": 0
+    },
+    {
+      "text": "poster",
+      "weight": 0
+    },
+    {
+      "text": "trailer",
+      "weight": 0
+    },
+    {
+      "text": "上映",
+      "weight": 0
+    },
+    {
+      "text": "上映時間",
+      "weight": 0
+    },
+    {
+      "text": "分析",
+      "weight": 0
+    },
+    {
+      "text": "心得",
+      "weight": 0
+    },
+    {
+      "text": "片名",
+      "weight": 0
+    },
+    {
+      "text": "片長",
+      "weight": 0
+    },
+    {
+      "text": "台灣上映",
+      "weight": 0
+    },
+    {
+      "text": "結局",
+      "weight": 0
+    },
+    {
+      "text": "愛情",
+      "weight": 0
+    },
+    {
+      "text": "新角色",
+      "weight": 0
+    },
+    {
+      "text": "劇情",
+      "weight": 0
+    },
+    {
+      "text": "劇情大綱",
+      "weight": 0
+    },
+    {
+      "text": "分級",
+      "weight": 0
+    },
+    {
+      "text": "片尾",
+      "weight": 0
+    },
+    {
+      "text": "角色",
+      "weight": 0
+    },
+    {
+      "text": "海報",
+      "weight": 0
+    },
+    {
+      "text": "彩蛋",
+      "weight": 0
+    },
+    {
+      "text": "彩蛋ptt",
+      "weight": 0
+    },
+    {
+      "text": "彩蛋片尾",
+      "weight": 0
+    },
+    {
+      "text": "票房",
+      "weight": 0
+    },
+    {
+      "text": "幾個彩蛋",
+      "weight": 0
+    },
+    {
+      "text": "愛奇藝",
+      "weight": 0
+    },
+    {
+      "text": "預售",
+      "weight": 0
+    },
+    {
+      "text": "劇透",
+      "weight": 0
+    },
+    {
+      "text": "爆雷",
+      "weight": 0
+    },
+    {
+      "text": "cast",
+      "weight": 0
+    },
+    {
+      "text": "facebook",
+      "weight": 0
+    },
+    {
+      "text": "fb",
+      "weight": 0
+    },
+    {
+      "text": "ost",
+      "weight": 0
+    },
+    {
+      "text": "reddit",
+      "weight": 0
+    },
+    {
+      "text": "片尾曲",
+      "weight": 0
+    },
+    {
+      "text": "伊莉",
+      "weight": 0
+    },
+    {
+      "text": "英文片名",
+      "weight": 0
+    },
+    {
+      "text": "動畫",
+      "weight": 0
+    },
+    {
+      "text": "標題",
+      "weight": 0
+    },
+    {
+      "text": "藍光",
+      "weight": 0
+    },
+    {
+      "text": "ig",
+      "weight": 0
+    },
+    {
+      "text": "imdb",
+      "weight": 0
+    },
+    {
+      "text": "桌布",
+      "weight": 0
+    },
+    {
+      "text": "反派",
+      "weight": 0
+    },
+    {
+      "text": "合約",
+      "weight": 0
+    },
+    {
+      "text": "名言",
+      "weight": 0
+    },
+    {
+      "text": "版權",
+      "weight": 0
+    },
+    {
+      "text": "英文翻譯",
+      "weight": 0
+    },
+    {
+      "text": "副標題",
+      "weight": 0
+    },
+    {
+      "text": "預測",
+      "weight": 0
+    },
+    {
+      "text": "預購",
+      "weight": 0
+    },
+    {
+      "text": "gif",
+      "weight": 0
+    },
+    {
+      "text": "kubo",
+      "weight": 0
+    },
+    {
+      "text": "kuso",
+      "weight": 0
+    },
+    {
+      "text": "lego",
+      "weight": 0
+    },
+    {
+      "text": "logo",
+      "weight": 0
+    },
+    {
+      "text": "myvideo",
+      "weight": 0
+    },
+    {
+      "text": "netflix",
+      "weight": 0
+    },
+    {
+      "text": "netflix台灣",
+      "weight": 0
+    },
+    {
+      "text": "英文心得",
+      "weight": 0
+    },
+    {
+      "text": "bgm",
+      "weight": 0
+    },
+    {
+      "text": "cg",
+      "weight": 0
+    },
+    {
+      "text": "dailymotion",
+      "weight": 0
+    },
+    {
+      "text": "dcard",
+      "weight": 0
+    },
+    {
+      "text": "douban",
+      "weight": 0
+    },
+    {
+      "text": "friday",
+      "weight": 0
+    },
+    {
+      "text": "豆瓣",
+      "weight": 6
+    },
+    {
+      "text": "時光網",
+      "weight": 0
+    },
+    {
+      "text": "imax",
+      "weight": 0
+    },
+    {
+      "text": "imax2d",
+      "weight": 0
+    },
+    {
+      "text": "imax3d",
+      "weight": 0
+    },
+    {
+      "text": "imax台北",
+      "weight": 0
+    },
+    {
+      "text": "imax訂票",
+      "weight": 0
+    },
+    {
+      "text": "imax高雄",
+      "weight": 0
+    },
+    {
+      "text": "imax場次",
+      "weight": 0
+    },
+    {
+      "text": "in89",
+      "weight": 0
+    },
+    {
+      "text": "itune",
+      "weight": 0
+    },
+    {
+      "text": "下載",
+      "weight": 0
+    },
+    {
+      "text": "台詞",
+      "weight": 0
+    },
+    {
+      "text": "拍攝地點",
+      "weight": 0
+    },
+    {
+      "text": "威秀",
+      "weight": 0
+    },
+    {
+      "text": "bt",
+      "weight": 0
+    },
+    {
+      "text": "cd",
+      "weight": 0
+    },
+    {
+      "text": "dvd",
+      "weight": 0
+    },
+    {
+      "text": "cosplay",
+      "weight": 0
+    },
+    {
+      "text": "online",
+      "weight": 0
+    },
+    {
+      "text": "身世",
+      "weight": 0
+    },
+    {
+      "text": "爆雷",
+      "weight": 0
+    },
+    {
+      "text": "無雷",
+      "weight": 0
+    }
+  ]
+}
