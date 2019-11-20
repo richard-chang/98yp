@@ -37,6 +37,38 @@
       "weight": 7
     },
     {
+      "text": "mtime",
+      "weight": 6
+    },
+    {
+      "text": "142mov",
+      "weight": 6
+    },
+    {
+      "text": "rottentomatoes",
+      "weight": 6
+    },
+    {
+      "text": "atmovies",
+      "weight": 6
+    },
+    {
+      "text": "imdb",
+      "weight": 6
+    },
+    {
+      "text": "yahoo",
+      "weight": 6
+    },
+    {
+      "text": "douban",
+      "weight": 6
+    },
+    {
+      "text": "google",
+      "weight": 6
+    },
+    {
       "text": "線上看",
       "weight": 2
     },
@@ -346,10 +378,6 @@
     },
     {
       "text": "dcard",
-      "weight": 0
-    },
-    {
-      "text": "douban",
       "weight": 0
     },
     {
