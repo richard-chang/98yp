@@ -41,6 +41,18 @@
       "weight": 7
     },
     {
+      "text": "金馬獎",
+      "weight": 7
+    },
+    {
+      "text": "奧斯卡",
+      "weight": 7
+    },
+    {
+      "text": "影展",
+      "weight": 7
+    },
+    {
       "text": "mtime",
       "weight": 6
     },
@@ -70,18 +82,6 @@
     },
     {
       "text": "google",
-      "weight": 6
-    },
-    {
-      "text": "金馬獎",
-      "weight": 6
-    },
-    {
-      "text": "奧斯卡",
-      "weight": 6
-    },
-    {
-      "text": "影展",
       "weight": 6
     },
     {
