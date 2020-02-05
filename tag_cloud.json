@@ -22,11 +22,27 @@
     },
     {
       "text": "劇情分析",
-      "weight": 10
+      "weight": 11
     },
     {
       "text": "ptt",
       "weight": 11
+    },
+    {
+      "text": "懶人包",
+      "weight": 11
+    },
+    {
+      "text": "奧斯卡",
+      "weight": 10
+    },
+    {
+      "text": "奧斯卡金像獎",
+      "weight": 10
+    },
+    {
+      "text": "贈票",
+      "weight": 10
     },
     {
       "text": "男主角",
@@ -42,10 +58,6 @@
     },
     {
       "text": "金馬獎",
-      "weight": 7
-    },
-    {
-      "text": "奧斯卡",
       "weight": 7
     },
     {
