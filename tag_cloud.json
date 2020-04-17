@@ -21,6 +21,10 @@
       "weight": 12
     },
     {
+      "text": "線上看",
+      "weight": 11
+    },
+    {
       "text": "劇情分析",
       "weight": 11
     },
@@ -61,8 +65,12 @@
       "weight": 7
     },
     {
+      "text": "坎城",
+      "weight": 6
+    },
+    {
       "text": "影展",
-      "weight": 7
+      "weight": 6
     },
     {
       "text": "mtime",
