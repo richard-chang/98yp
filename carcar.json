@@ -1,1 +1,116 @@
-
+{
+  "key_words": [
+    {
+      "text": "輪胎 壽命",
+      "weight": 12
+    },
+    {
+      "text": "輪胎 尺寸",
+      "weight": 12
+    },
+    {
+      "text": "輪胎 規格",
+      "weight": 12
+    },
+    {
+      "text": "輪胎 價格",
+      "weight": 12
+    },
+    {
+      "text": "輪胎 店",
+      "weight": 12
+    },
+    {
+      "text": "輪胎 品牌",
+      "weight": 11
+    },
+    {
+      "text": "汽車 輪胎",
+      "weight": 11
+    },
+    {
+      "text": "馬牌",
+      "weight": 11
+    },
+    {
+      "text": "瑪吉斯",
+      "weight": 11
+    },
+    {
+      "text": "建大",
+      "weight": 10
+    },
+    {
+      "text": "米其林",
+      "weight": 10
+    },
+    {
+      "text": "普利司通",
+      "weight": 10
+    },
+    {
+      "text": "米其林輪胎",
+      "weight": 9
+    },
+    {
+      "text": "米其林ps4",
+      "weight": 9
+    },
+    {
+      "text": "michelin ps4",
+      "weight": 7
+    },
+    {
+      "text": "正新輪胎",
+      "weight": 7
+    },
+    {
+      "text": "costco 輪胎",
+      "weight": 6
+    },
+    {
+      "text": "好市多 輪胎",
+      "weight": 6
+    },
+    {
+      "text": "金弘笙",
+      "weight": 6
+    },
+    {
+      "text": "車麗屋",
+      "weight": 6
+    },
+    {
+      "text": "小李輪胎",
+      "weight": 6
+    },
+    {
+      "text": "乾地抓地力",
+      "weight": 6
+    },
+    {
+      "text": "濕地抓地力",
+      "weight": 6
+    },
+    {
+      "text": "路感回饋",
+      "weight": 6
+    },
+    {
+      "text": "操控性",
+      "weight": 6
+    },
+    {
+      "text": "磨耗度",
+      "weight": 6
+    },
+    {
+      "text": "舒適度",
+      "weight": 2
+    },
+    {
+      "text": "回購率",
+      "weight": 2
+    }
+  ]
+}
